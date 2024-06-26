@@ -10,7 +10,7 @@ To be sure it works, Every encryption is followed by a decryption code which dec
 2. afte second step your message and key value use after convert to your massage encryption form.
 3. encryption messge copy and 3rd code are your messge convert encryption message convert decryption form.
 
-## step 4: this main step in a task Pixel manuplation -for any images encryption form
+#### step 4: this main step in a task Pixel manuplation -for any images encryption form
 1. see to code.
 2. use to matplotlib.pyplot.
 3. see the code  in  4th line in image path add make sure your image path add.
